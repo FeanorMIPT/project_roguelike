@@ -1,0 +1,4 @@
+pygame
+pycairo
+pytest
+coverage
